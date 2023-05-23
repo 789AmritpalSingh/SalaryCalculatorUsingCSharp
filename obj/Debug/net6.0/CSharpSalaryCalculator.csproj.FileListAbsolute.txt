@@ -1,0 +1,15 @@
+C:\Users\asvar\Documents\CSharpSalaryCalculator\bin\Debug\net6.0\CSharpSalaryCalculator.exe
+C:\Users\asvar\Documents\CSharpSalaryCalculator\bin\Debug\net6.0\CSharpSalaryCalculator.deps.json
+C:\Users\asvar\Documents\CSharpSalaryCalculator\bin\Debug\net6.0\CSharpSalaryCalculator.runtimeconfig.json
+C:\Users\asvar\Documents\CSharpSalaryCalculator\bin\Debug\net6.0\CSharpSalaryCalculator.dll
+C:\Users\asvar\Documents\CSharpSalaryCalculator\bin\Debug\net6.0\CSharpSalaryCalculator.pdb
+C:\Users\asvar\Documents\CSharpSalaryCalculator\obj\Debug\net6.0\CSharpSalaryCalculator.csproj.AssemblyReference.cache
+C:\Users\asvar\Documents\CSharpSalaryCalculator\obj\Debug\net6.0\CSharpSalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asvar\Documents\CSharpSalaryCalculator\obj\Debug\net6.0\CSharpSalaryCalculator.AssemblyInfoInputs.cache
+C:\Users\asvar\Documents\CSharpSalaryCalculator\obj\Debug\net6.0\CSharpSalaryCalculator.AssemblyInfo.cs
+C:\Users\asvar\Documents\CSharpSalaryCalculator\obj\Debug\net6.0\CSharpSalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\asvar\Documents\CSharpSalaryCalculator\obj\Debug\net6.0\CSharpSalaryCalculator.dll
+C:\Users\asvar\Documents\CSharpSalaryCalculator\obj\Debug\net6.0\refint\CSharpSalaryCalculator.dll
+C:\Users\asvar\Documents\CSharpSalaryCalculator\obj\Debug\net6.0\CSharpSalaryCalculator.pdb
+C:\Users\asvar\Documents\CSharpSalaryCalculator\obj\Debug\net6.0\CSharpSalaryCalculator.genruntimeconfig.cache
+C:\Users\asvar\Documents\CSharpSalaryCalculator\obj\Debug\net6.0\ref\CSharpSalaryCalculator.dll
